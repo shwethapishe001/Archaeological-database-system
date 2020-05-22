@@ -1,0 +1,28 @@
+
+
+body{
+  background: url("22.jpg");
+  min-height: 1000px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+   background-size: 100% 100%;
+
+  /* Needed to position the navbar */
+
+}
+
+/*.container{
+  font-color: blue;
+  font-weight: bold;
+  font-size: 200%;
+  background-color: transparent;
+  width:50%;
+  position:fixed;
+  top:30%;
+  left:30%
+}
+
+}*/

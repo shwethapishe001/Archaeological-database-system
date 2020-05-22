@@ -1,0 +1,13 @@
+body{
+  background: url("55.jpg");
+  min-height: 1000px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+   background-size: 100% 100%;
+
+  /* Needed to position the navbar */
+
+}
